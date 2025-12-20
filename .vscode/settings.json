@@ -1,0 +1,4 @@
+{
+  "terminal.integrated.suggest.cdPath": "relative",
+  "terminal.integrated.suggest.inlineSuggestion": "off"
+}
